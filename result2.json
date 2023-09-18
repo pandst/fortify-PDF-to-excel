@@ -1,0 +1,2366 @@
+[
+    {
+        "page": "Page 7",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.JSONStream",
+        "position": "node_modules/JSONStream/index.js",
+        "line": "166 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 7,Page 8",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/binaries.js",
+        "line": "44 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 8",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/eventlog.js",
+        "line": "67 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 8",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/binaries.js",
+        "line": "76 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 9,Page 8",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/cmd.js",
+        "line": "52 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 9",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/cmd.js",
+        "line": "17 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 9",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "774 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 10,Page 9",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/cmd.js",
+        "line": "65 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 10",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.sybase.src",
+        "position": "node_modules/sybase/src/SybaseDB.js",
+        "line": "41 (Command Injection)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 11,Page 12",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.passport- jwt.test",
+        "position": "node_modules/passport-jwt/test/testdata.js",
+        "line": "5 (Credential Management: Hardcoded API Credentials)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 15",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "251 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 15",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "251 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 15",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.aws4",
+        "position": "node_modules/aws4/aws4.js",
+        "line": "62 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 15,Page 16",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.form-data.lib",
+        "position": "node_modules/form-data/lib/form_data.js",
+        "line": "392 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 16",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "728 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 16",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "162 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 17,Page 16",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/redirect.js",
+        "line": "119 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 17",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "152 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 17",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "312 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 18,Page 17",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "452 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 18",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "602 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 18",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "914 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 18,Page 19",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "924 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 19",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "934 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 19",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1010 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 19",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1175 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 20,Page 19",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "142 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 20",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "301 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 20",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "434 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 20,Page 21",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "581 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 21",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "893 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 21",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "903 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 21",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "913 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 22",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "989 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 22",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1154 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 22",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "835 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 23,Page 22",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "870 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 23",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "886 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 23",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1103 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 23",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1118 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 24",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1134 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 24",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1150 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 24",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1198 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 24,Page 25",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1232 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 25",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1252 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 25",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1270 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 25",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1289 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 26",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1356 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 26",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1375 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 26",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1395 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 26,Page 27",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1416 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 27",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1436 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 27",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1458 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 27",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1478 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 28",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1493 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 28",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "814 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 28",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "849 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 29,Page 28",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "865 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 29",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1082 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 29",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1097 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 29",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1113 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 30",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1129 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 30",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1176 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 30",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1209 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 31,Page 30",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1229 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 31",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1247 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 31",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1266 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 31",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1333 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 32",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1352 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 32",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1372 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 32",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1392 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 33,Page 32",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1411 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 33",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1433 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 33",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1453 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 33",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1468 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 34",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "169 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 34",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "461 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 34",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/xrfile_delete_check.js",
+        "line": "18 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 34,Page 35",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/runtime.js",
+        "line": "15 (Cross-Site Request Forgery)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 43,Page 42",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "log.js",
+        "line": "110 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 43",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "160 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 43,Page 44",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "257 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 44,Page 45",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "344 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 45",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "376 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 46,Page 45",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "408 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 46",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "438 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 47",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "465 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 47,Page 48",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "531 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 48",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "679 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 49",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "705 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 49,Page 50",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "735 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 50",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "759 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 51",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "805 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 52,Page 51",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.xr.router.js",
+        "line": "825 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 52",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "171 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 53",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "285 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 53,Page 54",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "372 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 54",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "404 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 55,Page 54",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "436 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 55",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "466 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 56",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "493 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 56,Page 57",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "614 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 57",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "769 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 58,Page 57",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "795 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 58",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "825 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 59",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "849 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 60,Page 59",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "895 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 60",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "915 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 60,Page 61",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1081 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 61",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1219 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 62",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1306 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 62,Page 63",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1338 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 63",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1370 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 64,Page 63",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1400 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 64",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1427 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 65",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1493 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 65,Page 66",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1669 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 66",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1695 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 67,Page 66",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1725 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 67",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1749 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 68",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1795 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 69,Page 68",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/xr.router.js",
+        "line": "1815 (Cross-Site Scripting: Reflected)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 72",
+        "Package": ".src.plugins",
+        "position": "node_modules/formidable/src/plugins/octetstream.js",
+        "line": "57 (Denial of Service)",
+        "danger": "Low"
+    },
+    {
+        "page": "Page 72",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.formidable.src",
+        "position": "node_modules/formidable/src/Formidable.js",
+        "line": "370 (Denial of Service)",
+        "danger": "Low"
+    },
+    {
+        "page": "Page 77",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "1180 (Header Manipulation)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 78",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "1200 (Header Manipulation)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 79,Page 78",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "1189 (Header Manipulation)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 81",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.form-data.lib",
+        "position": "node_modules/form-data/lib/form_data.js",
+        "line": "321 (Insecure Randomness)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 81",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1145 (Insecure Randomness)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 82",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1269 (Insecure Randomness)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 82",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsprim.lib",
+        "position": "node_modules/jsprim/lib/jsprim.js",
+        "line": "570 (Insecure Randomness)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 82",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.rndm",
+        "position": "node_modules/rndm/index.js",
+        "line": "22 (Insecure Randomness)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 83,Page 84",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "log.js",
+        "line": "119 (Insecure Transport)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 84",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "356 (Insecure Transport)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 84",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "356 (Insecure Transport)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 85,Page 84",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "db_server.js",
+        "line": "145 (Insecure Transport)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 85",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.form-data.lib",
+        "position": "node_modules/form-data/lib/form_data.js",
+        "line": "424 (Insecure Transport)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 86,Page 87",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/binaries.js",
+        "line": "73 (Password Management: Empty Password)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 88,Page 89",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.hosted-git- info",
+        "position": "node_modules/hosted-git-info/index.js",
+        "line": "119 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 89",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.hosted-git- info",
+        "position": "node_modules/hosted-git-info/index.js",
+        "line": "118 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 89",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.pg-pool.test",
+        "position": "node_modules/pg-pool/test/connection-strings.js",
+        "line": "8 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 90,Page 89",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "658 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 90",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1049 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 90",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "436 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 90",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1214 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 90,Page 91",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "857 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 91",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "651 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 91",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1202 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 91",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1050 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 92,Page 91",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1203 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 92",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "437 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 92",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.url",
+        "position": "node_modules/url/test.js",
+        "line": "1215 (Password Management: Hardcoded Password)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 94",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "374 (Password Management: Null Password)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 94",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "414 (Password Management: Null Password)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 94",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "439 (Password Management: Null Password)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 96",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.include.jquery@3.3.1",
+        "position": "include/jquery@3.3.1/jquery.min.js",
+        "line": "9312 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 96",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.include.jqueryui@1.13.0.external.jquer",
+        "position": "include/jqueryui@1.13.0/external/jquery/jquery.js",
+        "line": "9368 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 96",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.debug.src",
+        "position": "node_modules/debug/src/node.js",
+        "line": "203 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 97",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.hosted-git- info",
+        "position": "node_modules/hosted-git-info/index.js",
+        "line": "117 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 97",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jws.lib",
+        "position": "node_modules/jws/lib/data-stream.js",
+        "line": "25 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 97",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "339 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 98",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "378 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 98",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "433 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 98",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/daemon.js",
+        "line": "776 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 98,Page 99",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/binaries.js",
+        "line": "19 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 99",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/binaries.js",
+        "line": "47 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 99",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/winsw.js",
+        "line": "3 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 100,Page 99",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.pg.lib",
+        "position": "node_modules/pg/lib/defaults.js",
+        "line": "13 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 100",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.pg.lib",
+        "position": "node_modules/pg/lib/connection-parameters.js",
+        "line": "69 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 100",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "73 (Password Management: Password in Comment)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 103",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.csurf.node_modules.d",
+        "position": "node_modules/csurf/node_modules/depd/index.js",
+        "line": "244 (Poor Logging Practice: Use of a System Output Stream)",
+        "danger": "Low"
+    },
+    {
+        "page": "Page 103",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.depd",
+        "position": "node_modules/depd/index.js",
+        "line": "260 (Poor Logging Practice: Use of a System Output Stream)",
+        "danger": "Low"
+    },
+    {
+        "page": "Page 105,Page 107,Page 106",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "888 (Race Condition)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 106",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request",
+        "position": "node_modules/request/request.js",
+        "line": "1086 (Race Condition)",
+        "danger": "High",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 109",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "243 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 109,Page 110",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "243 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 111,Page 110",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1384 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 111",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1404 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 112,Page 111",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1425 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 112",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1445 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 113",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1468 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 113,Page 114",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1361 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 114",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1381 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 115",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1400 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 116,Page 115",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1420 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 116",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1443 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 117",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1327 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 118,Page 117",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1304 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 118",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "844 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 119",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "879 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 120,Page 119",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "893 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 120",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1019 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 121,Page 120",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1111 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 121,Page 122",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1126 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 122",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1143 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 123,Page 122",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1157 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 123",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1184 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 124",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1207 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 124,Page 125",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1224 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 125",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1241 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 126,Page 125",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1281 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 126",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1364 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 127",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "823 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 128,Page 127",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "858 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 128",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "872 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 129",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "998 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 130,Page 129",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1090 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 130",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1105 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 131",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1122 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 132,Page 131",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1136 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 132",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1163 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 133",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1184 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 134,Page 133",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1201 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 134",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1218 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 135",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1258 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 135,Page 136",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1341 (System Information Leak: External)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 138",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "204 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 139,Page 138",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "204 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 139",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service.js",
+        "line": "20 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 140",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service.js",
+        "line": "55 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 140,Page 141",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service.js",
+        "line": "92 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 141",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service_un.js",
+        "line": "20 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 141,Page 142",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service_un.js",
+        "line": "72 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 142",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "service_un.js",
+        "line": "125 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 143",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "205 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 144,Page 143",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "205 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 144",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "log.js",
+        "line": "174 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 144,Page 145",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "426 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 145,Page 146",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "426 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 146",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "server.js",
+        "line": "242 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 147,Page 146",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD",
+        "position": "temp_server.js",
+        "line": "242 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 147,Page 148",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.node- windows.lib",
+        "position": "node_modules/node-windows/lib/winsw.js",
+        "line": "77 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 149,Page 148",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1326 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 149",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1303 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 149,Page 150",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "162 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 150",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "321 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 151",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "462 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 151,Page 152",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "612 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 152",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1018 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 152,Page 153",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1260 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 154,Page 153",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1280 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 154",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1346 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 155,Page 154",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1383 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 155",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1403 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 156",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1424 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 157,Page 156",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1444 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 157",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/api.router.js",
+        "line": "1467 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 157,Page 158",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "152 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 158",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "179 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 159",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "310 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 160,Page 159",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "444 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 160",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "471 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 161",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "591 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 161,Page 162",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "997 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 162",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1237 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 163",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1257 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 163,Page 164",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1323 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 164",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1360 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 165",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1380 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 165,Page 166",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1399 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 166",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1419 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 167",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.router",
+        "position": "router/temp.api.router.js",
+        "line": "1442 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 167,Page 168",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/runtime.js",
+        "line": "23 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 168",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/ftp_client.js",
+        "line": "72 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 169",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/ftp_client.js",
+        "line": "97 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 170,Page 169",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.util",
+        "position": "util/ftp_client.js",
+        "line": "122 (System Information Leak: Internal)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 171,Page 172",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.aws-sign2",
+        "position": "node_modules/aws-sign2/index.js",
+        "line": "71 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 172",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.aws-sign2",
+        "position": "node_modules/aws-sign2/index.js",
+        "line": "87 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 172",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.aws-sign2",
+        "position": "node_modules/aws-sign2/index.js",
+        "line": "103 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 173,Page 172",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.cookie- signature",
+        "position": "node_modules/cookie-signature/index.js",
+        "line": "42 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 173",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.cookie- signature",
+        "position": "node_modules/cookie-signature/index.js",
+        "line": "49 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 173,Page 174",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.cookie- signature",
+        "position": "node_modules/cookie-signature/index.js",
+        "line": "50 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 174",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.csrf",
+        "position": "node_modules/csrf/index.js",
+        "line": "152 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 174",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.express- session",
+        "position": "node_modules/express-session/index.js",
+        "line": "608 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 175,Page 174",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.oauth-sign",
+        "position": "node_modules/oauth-sign/index.js",
+        "line": "86 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 175",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.oauth-sign",
+        "position": "node_modules/oauth-sign/index.js",
+        "line": "3 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 175",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.oauth-sign",
+        "position": "node_modules/oauth-sign/index.js",
+        "line": "96 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 175,Page 176",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/oauth.js",
+        "line": "70 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 176",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/helpers.js",
+        "line": "31 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 176",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "96 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 176",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/helpers.js",
+        "line": "30 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 177",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "97 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 177",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "94 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 177",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "84 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 178,Page 177",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.request.lib",
+        "position": "node_modules/request/lib/auth.js",
+        "line": "82 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 178",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.sshpk.lib",
+        "position": "node_modules/sshpk/lib/utils.js",
+        "line": "117 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 178",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.sshpk.lib.formats",
+        "position": "node_modules/sshpk/lib/formats/putty.js",
+        "line": "143 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 178,Page 179",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.sshpk.lib.formats",
+        "position": "node_modules/sshpk/lib/formats/putty.js",
+        "line": "147 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 179",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.uuid.dist",
+        "position": "node_modules/uuid/dist/md5.js",
+        "line": "12 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 179",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.uuid.dist",
+        "position": "node_modules/uuid/dist/sha1.js",
+        "line": "12 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 180,Page 179",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.uuid.dist",
+        "position": "node_modules/uuid/dist/sha1.js",
+        "line": "19 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 180",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.uuid.dist",
+        "position": "node_modules/uuid/dist/md5.js",
+        "line": "19 (Weak Cryptographic Hash)",
+        "danger": "Low",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 182,Page 181",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1304 (Weak Encryption)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 182",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1341 (Weak Encryption)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 182",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1311 (Weak Encryption)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    },
+    {
+        "page": "Page 183,Page 182",
+        "Package": "D:.SCA.SCACODE.G9_IN.898109.NF17027-2.CODE.HbYTDWfD.node_modules.jsbn",
+        "position": "node_modules/jsbn/index.js",
+        "line": "1326 (Weak Encryption)",
+        "danger": "Critical",
+        "same": "OWASP10"
+    }
+]

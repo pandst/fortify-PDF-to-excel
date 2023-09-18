@@ -30,7 +30,7 @@ def extract_tables_from_pdf(pdf_file_name):
         json.dump(extracted_tables_by_page, f, ensure_ascii=False, indent=4)
 
 # PDF 文件名，請根據您的需求來修改這個部分
-pdf_file_name = 'data/XR API/G9_NF17027-2_898109_20230912_161654355928_JS_OWASP.pdf'
+pdf_file_name = '20230912_161654355928_JS_OWASP.pdf'
 
 # 執行函數
 extract_tables_from_pdf(pdf_file_name)
