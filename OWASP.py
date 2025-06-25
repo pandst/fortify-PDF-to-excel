@@ -34,6 +34,7 @@ def generate_result_json():
                     if current_method:
                         line += f" ({current_method.strip()})"
                     current_result["line"] = line.strip()  # 使用.strip()來去除多餘的空格
+                    current_method = None
 
 
             elif cell in danger_keywords:
